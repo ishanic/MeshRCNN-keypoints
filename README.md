@@ -1,3 +1,13 @@
+# Mesh R-CNN + Keypoint based Pose Estimation
+
+####To launch a training job on Azure, install Azure ML for Python and run 
+```
+python submit-azure.py 
+```
+####Contact
+Ishani Chakraborty
+ischakra@microsoft.com
+
 # Mesh R-CNN
 
 Code for the paper
