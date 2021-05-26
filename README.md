@@ -2,7 +2,7 @@
 
 ####To launch a training job on Azure, install Azure ML for Python and run 
 ```
-python submit-azure.py 
+python submit-azure.py --subscription-id <> --resource-group <> --workspace-name <> --cluster-name <> --dataset_directory <> --model_directory <> --custom_docker_image <> --container_registry_address <> --username <> --password <>
 ```
 ####Contact
 Ishani Chakraborty
